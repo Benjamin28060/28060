@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     private static Scanner sc = new Scanner(System.in);
-    private static final String ID_PREFIX = "27801 | ";
+    private static final String ID_PREFIX = "28060 | ";
 
     public static void main(String[] args) {
         System.out.println(ID_PREFIX + "=== STOCK MANAGEMENT SYSTEM ===");
